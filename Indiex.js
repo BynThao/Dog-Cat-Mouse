@@ -1,6 +1,7 @@
-var Dog = require('./Dog')
-var Cat = require('./Cat')
-var dog = new Dog('Tom')
-var tom 0 new Cat();
-dog.eat(tom);
-console.log(dog);
+var Cat = require('./Cat');
+var Mouse = require('./Mouse');
+
+var cat = new Cat();
+var mouse = new Mouse();
+cat.eat(mouse)
+ console.log(cat);
